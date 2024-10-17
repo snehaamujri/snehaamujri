@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hey! Sneha here... 
+
+![snehaamujri's Stats](https://github-readme-stats.vercel.app/api?username=snehaamujri&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+![snehaamujri's Streak](https://github-readme-streak-stats.herokuapp.com/?user=snehaamujri&theme=tokyonight&hide_border=true)
+
 
 <!--
 **snehaamujri/snehaamujri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
