@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sneha Amujuri</h1>
 <h3 align="center">Empowering Innovation with AI - Passionate Developer and Lifelong Learner | Content Writer | Javascript | Python</h3>
-[<img src=https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20Dark.png" width="100px" height="100px" />](https://gssoc-dymanic-badges.vercel.app/api/<snehaamujri>?year=<2024>)
+<img src="https://api.badgr.io/public/assertions/7ebOfemdSbyqQ48yw4bMCA" width="100px" height="100px" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snehaamujri&label=Profile%20views&color=0e75b6&style=flat" alt="snehaamujri" /> </p>
 
