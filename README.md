@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sneha Amujuri</h1>
 <h3 align="center">Empowering Innovation with AI - Passionate Developer and Lifelong Learner | Content Writer | Javascript | Python</h3>
-<img src="[https://api.badgr.io/public/assertions/7ebOfemdSbyqQ48yw4bMCA](https://cc.sj-cdn.net/instructor/3d8458f2k85sh-postman/courses/1a8b8cdxvqjxq/promo-image.1676069333.png](https://badgr.com/public/assertions/7ebOfemdSbyqQ48yw4bMCA?identity__email=snehaamujuri57@gmail.com)" width="100px" height="100px" />
+<img src="https://api.badgr.io/public/assertions/7ebOfemdSbyqQ48yw4bMCA?identity__email=snehaamujuri57%40gmail.com" width="100px" height="100px" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snehaamujri&label=Profile%20views&color=0e75b6&style=flat" alt="snehaamujri" /> </p>
 
